@@ -1,0 +1,1 @@
+# rpmspec-lsd-control
