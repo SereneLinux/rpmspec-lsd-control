@@ -1,0 +1,5 @@
+*.gz
+*.log
+SereneXfceData*/
+*.rpm
+x86_64/
